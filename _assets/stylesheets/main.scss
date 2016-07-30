@@ -1,3 +1,6 @@
+
+@import "custom/_variables.scss";
+
 // Reset default browser styles using Normalize
 @import "vendor/normalize-scss/normalize/import-now";
 
@@ -24,16 +27,7 @@
 @import "components/nav";
 @import "components/other";
 
-// Specific project styles, add any section specific sass modules here
-@import "pages/layout";
-@import "pages/home";
+@import "custom/_styles.scss";
 
-// Additional styles to think about
-@import "base/responsive";
 @import "base/print";
 
-// If IE support is needed
-@import "base/ie";
-
-// For anything quick and dirty that needs thrown in
-@import "base/shame";

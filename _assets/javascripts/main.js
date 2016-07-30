@@ -1,5 +1,0 @@
-//= require bootstrap/dropdown
-
-$(function() {
-  
-});

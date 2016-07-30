@@ -2,5 +2,5 @@ source "https://rubygems.org"
 
 gem "jekyll"
 gem "jekyll-assets"
-gem "bootstrap-sass"
-gem "uglifier"
+gem "normalize-scss"
+gem "font-awesome-sass"

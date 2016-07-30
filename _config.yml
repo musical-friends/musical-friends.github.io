@@ -20,7 +20,7 @@ github_username:  jekyll
 # Build settings
 markdown: kramdown
 
-gems: [jekyll-assets, bootstrap-sass, uglifier]
+gems: [jekyll-assets, font-awesome-sass, normalize-scss]
 
 assets:
   digest: false

@@ -1,5 +1,5 @@
 
-@import "custom/_variables.scss";
+
 
 // Reset default browser styles using Normalize
 @import "vendor/normalize-scss/normalize/import-now";
@@ -7,8 +7,7 @@
 // Install FontAwesome for useful icons
 @import "font-awesome";
 
-// Import fonts from Google
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700|Lato:400,700);
+@import url('https://fonts.googleapis.com/css?family=Titillium+Web:300,400,600,700&subset=latin-ext');
 
 // Set variables and reusable mixins
 @import "base/config";
@@ -16,7 +15,7 @@
 
 // Import typical layout styles
 @import "base/grid";
-@import "base/type";
+//@import "base/type";
 
 // Import reusable modules
 @import "components/media";
@@ -27,6 +26,7 @@
 @import "components/nav";
 @import "components/other";
 
+@import "custom/_variables.scss";
 @import "custom/_styles.scss";
 
 @import "base/print";

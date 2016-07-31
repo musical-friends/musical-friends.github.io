@@ -1,9 +1,9 @@
 <header>
-  <nav class="blog-nav">
-    <a class="blog-nav-item active" href="#">Home</a>
-    <a class="blog-nav-item" href="#">New features</a>
-    <a class="blog-nav-item" href="#">Press</a>
-    <a class="blog-nav-item" href="#">New hires</a>
-    <a class="blog-nav-item" href="#">About</a>
+  <div id="header-image">
+  </div>
+  <nav>
+    {% for item in site.navigation %}
+      <a href="{{ item.url }}"{% if page.url == item.url %} class="active"{% endif %}>{{ item.title }}</a>
+    {% endfor %}
   </nav>
 </header>

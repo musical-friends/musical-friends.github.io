@@ -12,13 +12,27 @@ description: > # this means to ignore newlines until "baseurl:"
   Musical Friends Kutzenhausen e. V.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.musical-friends-kutzenhausen.de" # the base hostname & protocol for your site
-twitter_username: musicalfriends
-github_username:  musicalfriends
+
 
 # Build settings
 markdown: kramdown
+
+sources:
+  - _assets/images
+  - _assets/javascripts
+  - _assets/stylesheets
 
 gems: [jekyll-assets, font-awesome-sass, normalize-scss, jekyll-sitemap, 'jekyll-seo-tag']
 
 assets:
   digest: false
+
+navigation:
+  - title: Home
+    url: /
+  - title: Musicals
+    url: /musicals.html
+  - title: Spenden
+    url: /spenden.html
+  - title: Verein
+    url: /verein.html

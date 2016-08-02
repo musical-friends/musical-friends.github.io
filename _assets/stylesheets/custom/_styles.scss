@@ -65,8 +65,12 @@ h5 {
 
 a {
   text-decoration: none;
+  color: $nav-color;
   &:hover {
     text-decoration: underline;
+  }
+  &:visited {
+    color: $nav-color;
   }
 }
 
@@ -97,10 +101,6 @@ a {
   background-color: $nav-bg-color;
 }
 
-#page > header > nav > a {
-  color: $nav-color;
-}
-
 #page > header > nav > a.active {
   font-weight: bold;
 }
@@ -110,7 +110,7 @@ a {
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center;
-  background-image: url(image_path("header-image.png"));
+  background-image: url(asset_path("header-image.png"));
 }
 
 #page > footer {
@@ -129,4 +129,8 @@ a {
   border-top-right-radius: $br;
   background-color: $nav-bg-color;
   font-size: 0.75em;
+}
+
+#page > footer .links {
+  color: $nav-color;
 }

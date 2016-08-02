@@ -4,11 +4,15 @@ title: Musical Friends Kutzenhausen e. V.
 email: info@musical-friends-kutzenhausen.de
 description: > # this means to ignore newlines until "baseurl:"
   Musical Friends Kutzenhausen e. V.
-baseurl: ""
+baseurl: "/demo"
 url: "http://www.musical-friends-kutzenhausen.de"
 
 # Build settings
 markdown: kramdown
+
+kramdown:
+  input: GFM
+  hard_wrap: true
 
 sources:
   - _assets/images

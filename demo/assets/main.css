@@ -2996,9 +2996,12 @@ h5 {
   font-size: 1rem; }
 
 a {
-  text-decoration: none; }
+  text-decoration: none;
+  color: #25418F; }
   a:hover {
     text-decoration: underline; }
+  a:visited {
+    color: #25418F; }
 
 #page {
   min-height: 100vh;
@@ -3021,9 +3024,6 @@ a {
   margin: 3px;
   border-radius: 9px;
   background-color: #00B4AC; }
-
-#page > header > nav > a {
-  color: #25418F; }
 
 #page > header > nav > a.active {
   font-weight: bold; }
@@ -3049,6 +3049,9 @@ a {
   border-top-right-radius: 9px;
   background-color: #00B4AC;
   font-size: 0.75em; }
+
+#page > footer .links {
+  color: #25418F; }
 
 @media print {
   header,

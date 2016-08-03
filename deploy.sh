@@ -7,6 +7,7 @@ echo "Cloning master branch..."
 git clone --branch master --single-branch --depth 1 "$GH_URL" "$TEMPDIR"
 
 echo "Copying site..."
+rm -rf "$TEMPDIR/demo"
 mkdir "$TEMPDIR/demo"
 cp -r _site/* "$TEMPDIR/demo"
 

@@ -18,7 +18,7 @@ Ursula Nägele
 ### Kontakt:
 
 Telefon:	08238/964660
-E-Mail:	info@musical-friends-kutzenhausen.de
+E-Mail:	info (at) musical-friends-kutzenhausen.de
 
 ### Registereintrag:
 
@@ -33,6 +33,7 @@ Am Kreuzeck 7
 86500 Kutzenhausen
 
 ### Haftungsausschluss (Disclaimer)
+
 
 #### Haftung für Inhalte
 

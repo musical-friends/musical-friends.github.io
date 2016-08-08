@@ -7,27 +7,27 @@
 // Install FontAwesome for useful icons
 @import "font-awesome";
 
-@import url('https://fonts.googleapis.com/css?family=Titillium+Web:300,400,600,700&subset=latin-ext');
+@import url('https://fonts.googleapis.com/css?family=Titillium+Web:200,300,400,600,700,900&subset=latin-ext');
 
 // Set variables and reusable mixins
-@import "base/config";
-@import "base/mixins";
+@import "vendor/motherplate/base/config";
+@import "vendor/motherplate/base/mixins";
 
 // Import typical layout styles
-@import "base/grid";
+@import "vendor/motherplate/base/grid";
 //@import "base/type";
 
 // Import reusable modules
-@import "components/media";
-@import "components/buttons";
-@import "components/tables";
-@import "components/forms";
-@import "components/alerts";
-@import "components/nav";
-@import "components/other";
+@import "vendor/motherplate/components/media";
+//@import "vendor/motherplate/components/buttons";
+//@import "vendor/motherplate/components/tables";
+//@import "vendor/motherplate/components/forms";
+//@import "vendor/motherplate/components/alerts";
+@import "vendor/motherplate/components/nav";
+@import "vendor/motherplate/components/other";
 
 @import "custom/_variables.scss";
 @import "custom/_styles.scss";
 
-@import "base/print";
+@import "vendor/motherplate/base/print";
 

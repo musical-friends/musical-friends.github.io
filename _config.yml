@@ -19,7 +19,10 @@ sources:
   - _assets/javascripts
   - _assets/stylesheets
 
-gems: [jekyll-assets, font-awesome-sass, normalize-scss, jekyll-sitemap, 'jekyll-seo-tag']
+gems: [jekyll-assets, font-awesome-sass, normalize-scss, jekyll-sitemap, jekyll-seo-tag]
+
+include:
+  - _pages
 
 exclude:
   - Gemfile
@@ -31,10 +34,35 @@ assets:
 
 navigation:
   - title: Home
-    url: /
+    url: /index.html
   - title: Musicals
     url: /musicals.html
   - title: Spenden
     url: /spenden.html
   - title: Verein
     url: /verein.html
+
+picture:
+  source: "images/_originals"
+  output: "images"
+  markup: "picture"
+  presets:
+    hero:
+      attr:
+        class: "page__hero-image"
+        itemprop: "image"
+      ppi: [1]
+      source_1600:
+        media: "(min-width: 1600px)"
+        width: "1600"
+      source_1024:
+        media: "(min-width: 1024px)"
+        width: "1024"
+      source_768:
+        media: "(min-width: 768px)"
+        width: "768"
+      source_600:
+        media: "(min-width: 600px)"
+        width: "600"
+      source_default:
+        width: "320"

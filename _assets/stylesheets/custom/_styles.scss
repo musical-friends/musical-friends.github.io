@@ -6,9 +6,8 @@ html {
 body {
   background-color: $bg-color;
   color: $color;
-  font-weight: 300;
+  font-weight: 200;
   font-size: 100%;
-  text-align: justify;
 }
 
 @include responsive($small-break) {
@@ -19,7 +18,7 @@ body {
 
 @include mobilefirst($big-break) {
   #page {
-    font-size: 1.2rem;
+    font-size: 1.1rem;
   }
 }
 
@@ -44,19 +43,19 @@ h5 {
 }
 
 h1 {
-  font-size: 2rem;
+  font-size: 1.7rem;
 }
 
 h2 {
-  font-size: 1.75rem;
-}
-
-h3 {
   font-size: 1.5rem;
 }
 
+h3 {
+  font-size: 1.3rem;
+}
+
 h4 {
-  font-size: 1.25rem;
+  font-size: 1rem;
 }
 
 h5 {
@@ -66,6 +65,7 @@ h5 {
 a {
   text-decoration: none;
   color: $nav-color;
+
   &:hover {
     text-decoration: underline;
   }
@@ -74,8 +74,19 @@ a {
   }
 }
 
+p {
+  text-align: justify;
+  margin-top: 0.5em;
+}
+
+code {
+  color: $heading-color;
+  font-weight: 400;
+}
+
 #page {
   @extend .container;
+  max-width: 1024px;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -97,12 +108,18 @@ a {
 
 #page > header > nav {
   margin: $margin;
+  padding-left: 15px;
   border-radius: $br;
   background-color: $nav-bg-color;
-}
-
-#page > header > nav > a.active {
-  font-weight: bold;
+  font-weight: 300;
+  font-size: 1.3rem;
+  a {
+    padding: 7px 10px;
+    &.active {
+      font-weight: 700;
+      text-decoration: underline;
+    }
+  }
 }
 
 #header-image {
@@ -133,4 +150,11 @@ a {
 
 #page > footer .links {
   color: $nav-color;
+}
+
+.photo {
+  padding: 1px;
+  border: 1px solid $bg-color;
+  background-color: $silver;
+  border-radius: $br;
 }

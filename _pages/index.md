@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Home
+permalink: index.html
 ---
-
 
 # Willkommen bei den Musical Friends Kutzenhausen e. V.
 

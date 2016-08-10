@@ -6,28 +6,30 @@ permalink: impressum.html
 
 # Impressum
 
-### Angaben gemäß § 5 TMG:
+### Angaben gemäß § 5 TMG
 
 Musical Friends Kutzenhausen e. V.
 Am Kreuzeck 7
 86500 Kutzenhausen
 
-### Vertreten durch:
+### Vertreten durch
 
-Ursula Nägele
+Ursula Nägele (1. Vorsitzende)
+Stephanie Rieger (2. Vorsitzende)
+Angela Zott (Kassiererin)
 
-### Kontakt:
+### Kontakt
 
 Telefon:	08238/964660
 E-Mail:	info (at) musical-friends-kutzenhausen.de
 
-### Registereintrag:
+### Registereintrag
 
 Eintragung im Vereinsregister.
 Registergericht: Amtsgericht Augsburg
 Registernummer: VR201851
 
-### Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
+### Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV
 
 Ursula Nägele
 Am Kreuzeck 7

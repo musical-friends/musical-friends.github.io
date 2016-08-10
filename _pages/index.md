@@ -6,14 +6,18 @@ permalink: index.html
 
 # Willkommen bei den Musical Friends Kutzenhausen e. V.
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+## Unser Projekt 2016:
 
-## Lorem ipsum dolor sit amet
+## „Leben im All – Eine rockige Reise durch die Galaxie“ von Gerhard A. Meyer
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+### Aufführungstermine in der Gemeindehalle Kutzenhausen:
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+* Samstag, 05.11.2016, 19.00 Uhr
+* Sonntag, 06.11.2016, 19.00 Uhr
+* Samstag, 12.11.2016, 19.00 Uhr
 
-## Lorem ipsum dolor sit amet
+Unser Musical 2016 legt seinen Schwerpunkt auf die Arbeit mit Kindern und Jugendlichen. Sie werden nicht nur im Chor singen, sondern dieses Mal auch die Hauptrollen übernehmen: singen, schauspielen und tanzen, angeleitet von Peter Fischer (Schauspiel, Bühne, Kostüme), Susanne Heick-Heilscher (Tanz und Choreografie) und Ursula Nägele (Musik, Chor, Gesamtkoordination). Vor den Ferien wurde bereits fleißig geprobt, im Hintergrund erstellt das bewährte und engagierte Technikteam im Moment Pläne für das richtige Licht und den guten Ton. Außerdem wird bereits das Bühnenbild entworfen und gebaut und viele Eltern und andere Erwachsene helfen z. B. bei den Requisiten, den Kostümen, der Maske und der Werbung.
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Wir freuen uns auf ein erfolgreiches Projekt und auf schöne Aufführungen!
+
+Herzliche Einladung!

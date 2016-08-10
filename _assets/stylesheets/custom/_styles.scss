@@ -37,13 +37,13 @@ h2,
 h3,
 h4,
 h5 {
-  margin: 0.25em 0;
-  text-shadow: 1px 1px 1px $heading-shadow-color;
-  color: $heading-color;
+  margin: 0.5em 0;
 }
 
 h1 {
   font-size: 1.7rem;
+  text-shadow: 1px 1px 1px $heading-shadow-color;
+  color: $heading-color;
 }
 
 h2 {
@@ -54,12 +54,17 @@ h3 {
   font-size: 1.3rem;
 }
 
-h4 {
+h4,
+h5 {
   font-size: 1rem;
 }
 
+h2,
+h3,
+h4,
 h5 {
-  font-size: 1rem;
+  text-shadow: 1px 1px 1px $heading-color;
+  color: $heading-shadow-color;
 }
 
 a {
@@ -152,9 +157,11 @@ code {
   color: $nav-color;
 }
 
-.photo {
-  padding: 1px;
-  border: 1px solid $bg-color;
-  background-color: $silver;
-  border-radius: $br;
+.thumbs {
+  img {
+    padding: 1px;
+    border: 1px solid $bg-color;
+    background-color: $silver;
+    border-radius: $br;
+  }
 }

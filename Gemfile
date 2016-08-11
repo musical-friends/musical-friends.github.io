@@ -6,3 +6,4 @@ gem "normalize-scss"
 gem "jekyll-sitemap"
 gem "jekyll-seo-tag"
 gem "autoprefixer-rails"
+

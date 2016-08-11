@@ -10,4 +10,6 @@ Seit der Errichtung der Gemeindehalle gibt es in Kutzenhausen die Tradition, all
 
 Um derartige Vorhaben zu unterstützen und mit dem Ziel, diese Tradition auch in Zukunft zu pflegen, wurde im Jahr 2016 der Verein „Musical Friends Kutzenhausen e. V.“ gegründet, der nun als Veranstalter auftritt.
 
-Der Verein ist beim Amtsgericht Augsburg unter der Registernummer VR 201851 eingetragen. Die Gemeinnützigkeit im Sinne der §§ 51, 59, 60 und 61 AO wurde vom Finanzamt Augsburg-Land festgestellt.
+Gerne können Sie Mitglied in unserem Verein werden. Der jährliche Mitgliedsbeitrag beträgt 5,- €. Der Verein ist beim Amtsgericht Augsburg unter der Registernummer VR 201851 eingetragen. Die Gemeinnützigkeit im Sinne der §§ 51, 59, 60 und 61 AO wurde vom Finanzamt Augsburg-Land festgestellt.
+
+* [Mitgliedsantrag herunterladen]({% asset_path 'Mitgliedsantrag.pdf' %}){:target="_blank"}

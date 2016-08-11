@@ -1,8 +1,5 @@
 #!/bin/bash -x
 
-rm -rf _assets/images
-mkdir -p _assets/images
-
 pushd _raw
 
 for f in *.jpg; do

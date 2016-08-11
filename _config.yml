@@ -19,7 +19,7 @@ sources:
   - _assets/javascripts
   - _assets/stylesheets
 
-gems: [jekyll-assets, autoprefixer-rails, font-awesome-sass, normalize-scss, jekyll-sitemap, jekyll-seo-tag]
+gems: [jekyll-assets, autoprefixer-rails, normalize-scss, jekyll-sitemap, jekyll-seo-tag]
 
 include:
   - _pages
@@ -28,6 +28,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - deploy.sh
+  - process_images.sh
 
 assets:
   digest: false

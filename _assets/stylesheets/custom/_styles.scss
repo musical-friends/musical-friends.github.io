@@ -158,10 +158,15 @@ code {
 }
 
 .thumbs {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: flex-end;
   img {
     padding: 1px;
     border: 1px solid $bg-color;
     background-color: $silver;
     border-radius: $br;
+    margin: 0.9rem 1.1rem;
   }
 }

@@ -4,7 +4,7 @@ pushd _raw
 
 for f in *.jpg; do
   filename="${f%%.*}"
-  convert -thumbnail 200x200 "$f" "../_assets/images/$filename-thumb.png"
+  convert -thumbnail 280x280 "$f" "../_assets/images/$filename-thumb.png"
 done
 
 for f in *.jpg; do

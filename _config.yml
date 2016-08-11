@@ -34,8 +34,8 @@ assets:
   digest: false
   autoprefixer:
     browsers:
-      - "last 2 versions"
-      - "IE > 9"
+      - "> 1%"
+      - "IE >= 9"
 
 navigation:
   - title: Home

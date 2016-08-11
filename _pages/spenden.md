@@ -18,4 +18,4 @@ Sie können Ihre Spende auf das folgende Konto überweisen:
   BIC: GENODEF1ZUS
 ~~~
 
-Alternativ können Sie auch die Möglichkeit nutzen, über unseren Partner [HelpDirect](https://www.helpmundo.de/helptools/donations/13631/0/?type=dom&newLocal=de) zu spenden. Dort stehen Ihnen weitere Zahlungsmöglichkeiten zur Verfügung. Herzlichen Dank!
+Alternativ können Sie auch die Möglichkeit nutzen, über unseren Partner [HelpDirect](https://www.helpmundo.de/helptools/donations/13631/0/?type=dom&newLocal=de){:target="_blank"} zu spenden. Dort stehen Ihnen weitere Zahlungsmöglichkeiten zur Verfügung. Herzlichen Dank!

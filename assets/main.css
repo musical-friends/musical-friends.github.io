@@ -847,7 +847,7 @@ h2,
 h3,
 h4,
 h5 {
-  text-shadow: 1px 1px 1px #D12229;
+  text-shadow: 1px 1px 1px rgba(209, 34, 41, 0.5);
   color: #111; }
 
 a {

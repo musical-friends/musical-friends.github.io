@@ -46,6 +46,8 @@ navigation:
     url: /verein.html
   - title: Spenden
     url: /spenden.html
+  - title: Kontakt
+    url: /kontakt.html
 
 picture:
   source: "images/_originals"

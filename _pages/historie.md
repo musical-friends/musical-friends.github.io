@@ -11,7 +11,7 @@ permalink: historie.html
 ### 2010: Spaghetti! Spaghetti!
 
 <p class="thumbs">
-  {% for i in (0..4) %}
+  {% for i in (0..5) %}
     {% capture full %}spaghetti-{{ i }}.jpg{% endcapture %}
     {% capture thumb %}spaghetti-{{ i }}-thumb.png{% endcapture %}
     <a href="{% asset_path '{{ full }}' %}" data-lightbox="spaghetti"><img src="{% asset_path '{{ thumb }}' %}" alt="Spaghetti" /></a>

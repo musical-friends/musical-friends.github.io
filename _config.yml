@@ -29,6 +29,7 @@ exclude:
   - Gemfile.lock
   - deploy.sh
   - process_images.sh
+  - _raw
 
 assets:
   digest: false

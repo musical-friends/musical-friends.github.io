@@ -8,6 +8,16 @@ permalink: historie.html
 
 ## Musicals
 
+### 2016: Leben im All
+
+<p class="thumbs">
+  {% for i in (0..77) %}
+    {% capture full %}all-{{ i }}.jpg{% endcapture %}
+    {% capture thumb %}all-{{ i }}-thumb.png{% endcapture %}
+    <a href="{% asset_path '{{ full }}' %}" data-lightbox="all"><img src="{% asset_path '{{ thumb }}' %}" alt="Leben im All" /></a>
+  {% endfor %}
+</p>
+
 ### 2010: Spaghetti! Spaghetti!
 
 <p class="thumbs">

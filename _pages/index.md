@@ -18,21 +18,12 @@ permalink: index.html
         <li>Sonntag, 06.11.2016, 19.00 Uhr</li>
         <li>Samstag, 12.11.2016, 19.00 Uhr</li>
       </ul>
+      <p>
+        Das war ein Highlight! Danke für die tollen Aufführungen und das wunderbare Publikum!
+      </p>
+      <p>
+        Bilder finden Sie <a href="/historie.html" alt="Historie">hier</a>.
+      </p>
     </div>
   </div>
 </div>
-
-<div class="premiere">
-  Das war ein Highlight! Danke für die tollen Aufführungen und das wunderbare Publikum!
-
-  <p class="thumbs">
-    {% for i in (0..2) %}
-      {% capture full %}premiere-{{ i }}.jpg{% endcapture %}
-      {% capture thumb %}premiere-{{ i }}-thumb.png{% endcapture %}
-      <a href="{% asset_path '{{ full }}' %}" data-lightbox="premiere"><img src="{% asset_path '{{ thumb }}' %}" alt="Premiere" /></a>
-    {% endfor %}
-  </p>
-
-  Weitere Bilder demnächst...
-</div>
-

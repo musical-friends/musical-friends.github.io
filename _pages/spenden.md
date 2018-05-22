@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Spenden
-donation: true
 permalink: spenden.html
 ---
 
@@ -17,5 +16,3 @@ Sie können Ihre Spende auf das folgende Konto überweisen:
   IBAN: DE59 7206 9274 0106 4747 30
   BIC: GENODEF1ZUS
 ~~~
-
-Alternativ können Sie auch die Möglichkeit nutzen, über unseren Partner [HelpDirect](https://www.helpmundo.de/helptools/donations/13631/0/?type=dom&newLocal=de){:target="_blank"} zu spenden. Dort stehen Ihnen weitere Zahlungsmöglichkeiten zur Verfügung. Herzlichen Dank!

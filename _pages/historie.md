@@ -8,6 +8,16 @@ permalink: historie.html
 
 ## Musicals
 
+### 2022: Concert Tours
+
+<p class="thumbs">
+  {% for i in (0..11) %}
+    {% capture full %}all-{{ i }}.jpg{% endcapture %}
+    {% capture thumb %}all-{{ i }}-thumb.png{% endcapture %}
+    <a href="{% asset_path '{{ full }}' %}" data-lightbox="concert-tours"><img src="{% asset_path '{{ thumb }}' %}" alt="Concert Tours" /></a>
+  {% endfor %}
+</p>
+
 ### 2016: Leben im All
 
 <p class="thumbs">

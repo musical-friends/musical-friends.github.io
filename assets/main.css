@@ -891,11 +891,15 @@ a {
 
 p {
   text-align: justify;
-  margin-top: 0.5em; }
+  margin-top: 0.1em; }
 
 code {
   color: #D12229;
   font-weight: 400; }
+
+video {
+  border-radius: 10px;
+}
 
 #page {
   max-width: 1024px;
